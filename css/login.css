@@ -1,0 +1,98 @@
+.header{
+   
+ 
+   
+	    width: 500px;
+    min-height: 160px;
+    
+    margin: 0 auto 0 auto;
+	   margin-top: 200px;
+    border-style: solid;
+    border-color: silver;
+}
+ 
+.pName{
+    text-decoration: none;
+    color: navy;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 18pt;
+    text-align: center;
+    display: block;
+    margin-top: 50px;
+}
+ 
+.ins{
+    text-decoration: none;
+    color:black;
+    font-family: arial;
+    font-size: 10pt;
+    text-align: center;
+    display: block;
+    margin-top: 50;
+}
+ 
+input[type=text] {
+    width: 200px;
+    height: 40px;
+    margin-left: 155px;
+    margin-top: 10px;
+    box-sizing: border-box;
+}
+ 
+input[type=password] {
+    width: 200px;
+    height: 40px;
+    margin-left: 155px;
+    margin-top: 10px;
+    box-sizing: border-box;
+}
+ 
+.lbutton {
+    background-color: skyblue;
+    border:solid;
+    color: blue;
+    padding: 15px 60px;
+    text-decoration: none;
+    font-size: 16px;
+    margin-left: 175px;
+    margin-top: 20px;
+    border-radius: 4px;
+    
+    
+}
+.lbutton:hover {
+  background-color:#4CAF50; 
+  color: #ffffff;
+}
+ 
+.lll{
+    text-decoration: none;
+    color: black;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 12pt;
+   text-align: center;
+    display: block;
+}
+ 
+   .sp{
+	   text-decoration: none;
+    color: navy;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 10pt;
+    text-align: center;
+    display: block;
+    margin-top: 20px;
+	   
+   }
+
+
+
+
+ 
+  .forgate_pass{
+    margin-left: 450px;
+    margin-top: 10px;
+  }
